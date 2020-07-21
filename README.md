@@ -9,7 +9,6 @@ I'm Matthias, an interaction designer who loves to solve problems with deisgn. I
 🤸‍♂️ Hobby Acrobat </br>
 📷 Photographer sometimes uploading to [Unsplash](https://unsplash.com/@matthiasmeierkoch)
 
-</br>
 
 ### We can sozialize on here:
 [![matthiasko.ch](https://img.shields.io/static/v1?label=matthiasko.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.matthiasko.ch/)
