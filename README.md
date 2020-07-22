@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Matthias, an interaction designer who loves to solve problems with deisgn. I have a great interest in information design and branding. Currently I'm helping [Swisscom](https://www.swisscom.ch/) to create smarter digital products. I'm working and living in 📍 [Zürich, Switzerland](https://www.google.com/maps/place/Z%C3%BCrich/data=!4m2!3m1!1s0x47900b9749bea219:0xe66e8df1e71fdc03?sa=X&ved=2ahUKEwjWnJKawN7qAhXtlYsKHa72C24Q8gEwJ3oECBgQBg)  </br>
+I'm Matthias, an interaction designer who loves to solve complex problems with deisgn. I have a great interest in information design and branding. Currently I'm helping [Swisscom](https://www.swisscom.ch/) to create smarter digital products. I'm working and living in 📍 [Zürich, Switzerland](https://www.google.com/maps/place/Z%C3%BCrich/data=!4m2!3m1!1s0x47900b9749bea219:0xe66e8df1e71fdc03?sa=X&ved=2ahUKEwjWnJKawN7qAhXtlYsKHa72C24Q8gEwJ3oECBgQBg)  </br>
 
 </br>
 
