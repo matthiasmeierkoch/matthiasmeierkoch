@@ -11,7 +11,11 @@ I'm Matthias, an interaction designer who loves to solve complex problems with d
 
 
 ### We can socialize on here:
+
 [![matthiasko.ch](https://img.shields.io/static/v1?label=matthiasko.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.matthiasko.ch/)
+
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/matthias-koch-3588ba119/)
+
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=orange&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/matthiasmkoch/)
+
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/matthiasmeierkoch/)
